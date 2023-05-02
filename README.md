@@ -1,3 +1,6 @@
+# Background 
+Explore using AI to predict energy consumption and distribution of a given architectural room and environment condition, then using GAN to design a room layout that's energy efficient. Traditionally this iterative process is very time consuming and often as one-way approach - where energy modelling is done after a shape/layout is given.
+
 # Set up 
 ```
 # Setup conda environment
@@ -9,7 +12,7 @@ conda activate pix2pix
 pip install -r requirements.txt
 ```
 
-This is from a public github project from https://github.com/nate-peters/pix2pix-floorplans-dataset
+This is built on https://github.com/nate-peters/pix2pix-floorplans-dataset
 # pix2pix-floorplans-dataset
 
 ![](extra/pix2pix-homepage.jpg)
