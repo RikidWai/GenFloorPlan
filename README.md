@@ -1,5 +1,5 @@
 # Background 
-Explore using GAN to design a room layout that's energy efficient
+A research project aims at exploring using GAN to design a room layout that's energy efficient
 ![Untitled](https://user-images.githubusercontent.com/89850471/235638604-dd8224e8-4c02-483b-84d2-1bacd3c3f719.png)
 
 # Set up 
